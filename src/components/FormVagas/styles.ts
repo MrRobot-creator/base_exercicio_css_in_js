@@ -23,6 +23,7 @@ export const BtnPesquisar = styled.button`
   color: var(--cor-secundaria);
   margin-left: 8px;
   cursor: pointer;
+  
   @media (max-width: 768px) {
     width: 70%;
     margin: 0 auto;

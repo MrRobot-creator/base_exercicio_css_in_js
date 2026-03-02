@@ -8,6 +8,7 @@ export const FormularioHero = styled.form`
   position: relative;
   display: flex;
   align-items: center;
+  
   &::before {
     position: absolute;
     top: 0;

@@ -3,8 +3,8 @@ import styled, { createGlobalStyle } from 'styled-components'
 const GlobalStyle = createGlobalStyle`
 
 :root {
-  --cor-principal: #6c5ce7;
-  --cor-secundaria: #f4f4f4;
+  --cor-principal: #a7727d;
+  --cor-secundaria: #f9f5e7;
 }
 
 * {
